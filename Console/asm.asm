@@ -3,10 +3,10 @@
 .STACK
 .DATA
 .CODE
-clear PROC
+mAdd PROC
 mov eax, 5
 mov ebx, 2
 add eax, ebx
 ret
-clear ENDP 
+mAdd ENDP 
 END

@@ -28,7 +28,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="clear.asm">
+    <MASM Include="asm.asm">
       <Filter>Source Files</Filter>
     </MASM>
   </ItemGroup>
